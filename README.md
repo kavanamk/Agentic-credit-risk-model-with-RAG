@@ -23,6 +23,8 @@ An automated loan decision pipeline that scores credit risk, detects fraud, retr
 
 Most credit risk systems stop at the decision: approved or rejected. This project extends that decision into a full communication workflow — automatically generating and sending a personalised email to every applicant based on their outcome, grounded in real company policy data.
 
+![IMG_2292](https://github.com/user-attachments/assets/6d1b933c-f6f4-4c2f-8334-7a158a3e3c02)
+
 The pipeline handles three scenarios:
 
 - **Approved** — sends a tailored approval email with the applicant's interest rate, loan terms, and next steps, all pulled from policy documents
